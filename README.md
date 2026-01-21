@@ -114,7 +114,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://linkedin.com/in/owadokun-tosin-tobi">
+      <a href="https://www.linkedin.com/in/owadokun-tosin-tobi-6159091a3">
         <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin">
       </a>
     </td>
